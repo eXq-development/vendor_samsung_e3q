@@ -28,17 +28,26 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm3q/proprietary/vendor/etc/wifi/kiwi_v2/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/kiwi_v2/WCNSS_qcom_cfg.ini \
     vendor/samsung/dm3q/proprietary/vendor/firmware/00_generic_xtalk_shape.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/00_generic_xtalk_shape.bin \
     vendor/samsung/dm3q/proprietary/vendor/firmware/CAMERA_ICP.b20:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b20 \
+    vendor/samsung/dm3q/proprietary/odm/firmware/CAMERA_ICP.b20:$(TARGET_COPY_OUT_ODM)/firmware/CAMERA_ICP.b20 \
     vendor/samsung/dm3q/proprietary/vendor/firmware/CAMERA_ICP.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.mbn \
+    vendor/samsung/dm3q/proprietary/odm/firmware/CAMERA_ICP.mbn:$(TARGET_COPY_OUT_ODM)/firmware/CAMERA_ICP.mbn \
     vendor/samsung/dm3q/proprietary/vendor/firmware/CAMERA_ICP.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.mdt \
+    vendor/samsung/dm3q/proprietary/odm/firmware/CAMERA_ICP.mdt:$(TARGET_COPY_OUT_ODM)/firmware/CAMERA_ICP.mdt \
     vendor/samsung/dm3q/proprietary/vendor/firmware/DM3_S6E3HAE_AMB681AZ01.dat:$(TARGET_COPY_OUT_VENDOR)/firmware/DM3_S6E3HAE_AMB681AZ01.dat \
     vendor/samsung/dm3q/proprietary/vendor/firmware/Data.msc:$(TARGET_COPY_OUT_VENDOR)/firmware/Data.msc \
     vendor/samsung/dm3q/proprietary/vendor/firmware/a740_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_zap.b02 \
+    vendor/samsung/dm3q/proprietary/odm/firmware/a740_zap.b02:$(TARGET_COPY_OUT_ODM)/firmware/a740_zap.b02 \
     vendor/samsung/dm3q/proprietary/vendor/firmware/a740_zap.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_zap.mbn \
+    vendor/samsung/dm3q/proprietary/odm/firmware/a740_zap.mbn:$(TARGET_COPY_OUT_ODM)/firmware/a740_zap.mbn \
     vendor/samsung/dm3q/proprietary/vendor/firmware/a740_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_zap.mdt \
+    vendor/samsung/dm3q/proprietary/odm/firmware/a740_zap.mdt:$(TARGET_COPY_OUT_ODM)/firmware/a740_zap.mdt \
     vendor/samsung/dm3q/proprietary/vendor/firmware/bt_nvm_loading.xml:$(TARGET_COPY_OUT_VENDOR)/firmware/bt_nvm_loading.xml \
     vendor/samsung/dm3q/proprietary/vendor/firmware/evass.b19:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.b19 \
+    vendor/samsung/dm3q/proprietary/odm/firmware/evass.b19:$(TARGET_COPY_OUT_ODM)/firmware/evass.b19 \
     vendor/samsung/dm3q/proprietary/vendor/firmware/evass.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mbn \
+    vendor/samsung/dm3q/proprietary/odm/firmware/evass.mbn:$(TARGET_COPY_OUT_ODM)/firmware/evass.mbn \
     vendor/samsung/dm3q/proprietary/vendor/firmware/evass.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mdt \
+    vendor/samsung/dm3q/proprietary/odm/firmware/evass.mdt:$(TARGET_COPY_OUT_ODM)/firmware/evass.mdt \
     vendor/samsung/dm3q/proprietary/vendor/firmware/hmtbtfw20.tlv:$(TARGET_COPY_OUT_VENDOR)/firmware/hmtbtfw20.tlv \
     vendor/samsung/dm3q/proprietary/vendor/firmware/hmtnv20.b21:$(TARGET_COPY_OUT_VENDOR)/firmware/hmtnv20.b21 \
     vendor/samsung/dm3q/proprietary/vendor/firmware/hmtnv20.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/hmtnv20.bin \
@@ -54,6 +63,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm3q/proprietary/vendor/firmware/tsp_stm/fts2ba61y_dm3q.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tsp_stm/fts2ba61y_dm3q.bin \
     vendor/samsung/dm3q/proprietary/vendor/firmware/vl53l8.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vl53l8.bin \
     vendor/samsung/dm3q/proprietary/vendor/firmware/vpu30_4v.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu30_4v.mbn \
+    vendor/samsung/dm3q/proprietary/odm/firmware/vpu30_4v.mbn:$(TARGET_COPY_OUT_ODM)/firmware/vpu30_4v.mbn \
     vendor/samsung/dm3q/proprietary/vendor/firmware/wez02_dm3_c0.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wez02_dm3_c0.bin \
     vendor/samsung/dm3q/proprietary/vendor/firmware/wez02_dm3_c1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wez02_dm3_c1.bin \
     vendor/samsung/dm3q/proprietary/vendor/firmware/wez02_dm3_c2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wez02_dm3_c2.bin \
